@@ -36,7 +36,7 @@ class Main extends React.Component {
 				<Row>
 					<Col style={{paddingTop: "3%"}}>
 					<p class="navbar-brand" style={{fontWeight: "lighter", color: "#FFF"}}>Phil Parsons</p>
-					<h1 style={{ color: "white", fontSize: "100px", frontWeight: "Black" }}>Design<br/>Development</h1>
+					<h1 style={{ color: "white", fontSize: "100px", frontWeight: "Black" }}>Design and<br/>Development</h1>
 					<button onClick={this.changeColor} >Change Color</button>
 					</Col>
 
